@@ -4,12 +4,10 @@ import { reducer } from '../utils/reducers'; // my reducer to change state
 
 // creating an empty redux store and exporting it .
 
-// export default configureStore({
-//     reducer: {}
-// })
+export default configureStore({reducer})
 
-const store = configureStore({ reducer });
+// const store = configureStore({ reducer });
 
 
 
-export default configureStore;
+// export default configureStore;
