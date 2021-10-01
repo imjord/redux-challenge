@@ -19,3 +19,5 @@ and be amazed
 
 
 deployed link: https://blooming-hollows-73733.herokuapp.com/
+
+walkthrough video : https://watch.screencastify.com/v/6g9o3c8cXMmyc1fEtapQ
