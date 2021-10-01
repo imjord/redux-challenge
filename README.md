@@ -1,7 +1,7 @@
 # Title
 * Redux Shop
 
-#Tech used
+# Tech used
 * Used Redux to refactor from the old storeContext that was used before for state management
 
 # Functionality
