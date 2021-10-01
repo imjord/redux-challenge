@@ -1,4 +1,4 @@
 # redux-challenge
 
 
-![myimage]("./Capture.PNG")
+![myimage]("/Capture.PNG")
