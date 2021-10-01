@@ -12,7 +12,15 @@ import {
 } from "./actions";
 
 // creating our inital state values
-const beginningState = {
+const beginningState = { // pass in empty objects of the variables down below to set our state 
+currentCategory: '', // state 0
+cartOpen: false, // state 1
+products: [], // STATE 2
+categories: [], // state 3
+cart: [], // state 4 
+
+
+
 
 }
 
